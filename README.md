@@ -1,5 +1,5 @@
 # VisonOS Control
-VisonOS Control is a Python-based project that aims to recreate the elegant control experience introduced by Apple's VisonOS. This project utilizes computer vision techniques to enable users to control their computer mouse through facial and hand gestures, offering a unique and intuitive interaction method.
+VisonOS Control is a project that aims to recreate the elegant control experience introduced by Apple's VisonOS. This project utilizes computer vision techniques to enable you control your computer mouse through facial and hand gestures, offering a unique and intuitive interaction method.
 
 ## Features
 Control your Computer with facial and hand guestures like we saw at WWDC Apple last year✨
