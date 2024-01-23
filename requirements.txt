@@ -1,0 +1,4 @@
+python=3.10.13
+opencv-contrib-python=4.9.0.80
+mediapipe=0.10.9
+PyAutoGUI=0.9.54
